@@ -22,7 +22,7 @@ First you'll need to convert your WebM video to a DASH manifest with the accompa
 
 For example:
 
-The file** _in.video_** can be any container with at least one audio and one video stream that can be decoded by ffmpeg,
+The file **_in.video_** can be any container with at least one audio and one video stream that can be decoded by ffmpeg,
 
 Create the audio using:
 
